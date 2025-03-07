@@ -1,0 +1,3 @@
+- Go to "Blooket"
+- Set "Daily Tokens Limit" to 1000
+- Set "Tokens" to 10000
