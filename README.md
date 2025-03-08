@@ -1,3 +1,4 @@
-- Go to "Blooket"
-- Set "Daily Tokens Limit" to 1000
+- Go to "https://dashboard.blooket.com/stats"
+- Daily Tokens Avalible = 446
+- Set "Daily Tokens Avalible" to 1000
 - Set "Tokens" to 10000
